@@ -14,7 +14,6 @@ Step 3: Adhere to SOLID Principles
 - Refactor the code:
 -- Ensure the code follows SOLID principles.
 
-
 Step 4: Indexing Internal Content
 - Support indexing internal content:
 -- Implement functionality to index internal content.

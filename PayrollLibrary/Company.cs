@@ -76,6 +76,13 @@ namespace PayrollLibrary
         private string state;
         private string zip;
 
+        /// <summary>
+        /// Initializes a new instance of the <see cref="CompanyAddress"/> class.
+        /// </summary>
+        /// <param name="address">The street address of the company.</param>
+        /// <param name="city">The city where the company is located.</param>
+        /// <param name="state">The state where the company is located.</param>
+        /// <param name="zip">The ZIP code of the company's location.</param>
         public CompanyAddress(string address, string city, string state, string zip)
         {
             this.address = address;
